@@ -7,7 +7,7 @@ def main():
 	deleted_folders_count = 0
 	deleted_files_count = 0
 
-	path = "/PATH_TO_DELETE"
+	path = input("Path To Remove Files From : ")
 
 	days = 30
 
